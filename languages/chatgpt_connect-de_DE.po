@@ -1,0 +1,164 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-03-04 06:23+0100\n"
+"PO-Revision-Date: 2023-03-04 12:23+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/backend/api.php:32
+msgid "no description available"
+msgstr "Keine Beschreibung verfügbar"
+
+#: includes/backend/api.php:32
+msgid "Text-Davinci-002 is a language model developed by OpenAI that is designed for natural language processing tasks, such as text generation, text completion, and question-answering. It is one of the most advanced language models currently available, with the ability to generate human-like responses and understand complex contexts. With its broad knowledge base and sophisticated language understanding, Text-Davinci-002 can be used for a wide range of applications, from chatbots and virtual assistants to content creation and machine translation."
+msgstr "Text-Davinci-002 ist ein von OpenAI entwickeltes Sprachmodell, das für Aufgaben im Bereich der natürlichen Sprachverarbeitung wie Textgenerierung, Textvervollständigung und Frage-Antwort entwickelt wurde. Es ist eines der fortschrittlichsten Sprachmodelle, das derzeit verfügbar ist, mit der Fähigkeit, menschenähnliche Antworten zu generieren und komplexe Kontexte zu verstehen. Mit seiner breiten Wissensbasis und seiner anspruchsvollen Sprachverständnis kann Text-Davinci-002 für eine Vielzahl von Anwendungen eingesetzt werden, von Chatbots und virtuellen Assistenten bis hin zur Erstellung von Inhalten und maschineller Übersetzung."
+
+#: includes/backend/api.php:32
+msgid "The Babbage engine is a language model designed for tasks such as text completion, classification, and sentiment analysis. It is trained on a diverse range of text data and can produce accurate and contextually relevant outputs."
+msgstr "Die Babbage-Engine ist ein Sprachmodell, das für Aufgaben wie Textvervollständigung, Klassifizierung und Sentimentanalyse konzipiert ist. Sie ist auf eine vielfältige Auswahl an Textdaten trainiert und kann genaue und kontextuell relevante Ausgaben produzieren."
+
+#: includes/backend/api.php:32
+msgid "The Curie engine is a language model designed for a wide range of natural language processing tasks such as text generation, summarization, and classification. It is trained on a diverse range of text data and can produce high-quality outputs in various formats and styles."
+msgstr "Die Curie-Engine ist ein Sprachmodell, das für eine breite Palette von natürlichen Sprachverarbeitungsaufgaben wie Textgenerierung, Zusammenfassung und Klassifizierung entwickelt wurde. Sie ist auf eine vielfältige Auswahl an Textdaten trainiert und kann hochwertige Ausgaben in verschiedenen Formaten und Stilen produzieren."
+
+#: includes/backend/api.php:32
+msgid "The Davinci engine is the most advanced and versatile engine from OpenAI. It can be used for various use cases such as text generation, classification, translation, and analysis."
+msgstr "Die Davinci-Engine ist die fortschrittlichste und vielseitigste Engine von OpenAI. Sie kann für verschiedene Anwendungsfälle wie Textgenerierung, Klassifizierung, Übersetzung und Analyse eingesetzt werden."
+
+#: includes/backend/api.php:32
+msgid "The text-davinci-003 engine is a language model developed by OpenAI. It is a variant of the Davinci engine that is optimized for natural language processing tasks such as text completion, summarization, and sentiment analysis. It has a high level of accuracy and can generate human-like responses to prompts."
+msgstr "Die Text-Davinci-003-Engine ist ein von OpenAI entwickeltes Sprachmodell. Es ist eine Variante der Davinci-Engine, die für natürliche Sprachverarbeitungsaufgaben wie Textvervollständigung, Zusammenfassung und Sentimentanalyse optimiert ist. Es hat einen hohen Genauigkeitsgrad und kann menschenähnliche Antworten auf Anfragen generieren."
+
+#: includes/backend/api.php:32
+msgid "The babbage-code-search-code engine is a language model developed by OpenAI. It is optimized for code search and can understand natural language queries related to code, and return relevant code snippets. It is particularly useful for software developers who need to find solutions to programming problems quickly."
+msgstr "Die Babbage-Code-Search-Code-Engine ist ein von OpenAI entwickeltes Sprachmodell. Es ist auf die Code-Suche optimiert und kann natürlichsprachliche Abfragen im Zusammenhang mit Code verstehen und relevante Code-Snippets zurückgeben. Es ist besonders nützlich für Softwareentwickler, die schnell Lösungen für Programmierprobleme finden müssen."
+
+#: includes/backend/api.php:32
+msgid "The text-similarity-babbage-001 engine is a language model developed by OpenAI. It is optimized for computing the semantic similarity between pairs of text. It can be used to compare documents, sentences, or phrases, and return a similarity score. It is particularly useful for applications such as information retrieval, text mining, and natural language understanding."
+msgstr "Die Text-Ähnlichkeits-Babbage-001-Engine ist ein von OpenAI entwickeltes Sprachmodell. Es ist darauf optimiert, die semantische Ähnlichkeit zwischen Textpaaren zu berechnen. Es kann verwendet werden, um Dokumente, Sätze oder Phrasen zu vergleichen und einen Ähnlichkeitswert zurückzugeben. Es ist besonders nützlich für Anwendungen wie Informationsabfrage, Textmining und natürliche Sprachverarbeitung."
+
+#: includes/backend/api.php:32
+msgid "The text-davinci-001 engine is a language model developed by OpenAI. It is one of the most advanced language models available and is capable of performing a wide range of natural language processing tasks, including text completion, summarization, and translation. It has a high level of accuracy and can generate human-like responses to prompts."
+msgstr "Die Text-Davinci-001-Engine ist ein von OpenAI entwickeltes Sprachmodell. Es ist eines der fortschrittlichsten Sprachmodelle und kann eine Vielzahl von natürlichen Sprachverarbeitungsaufgaben ausführen, einschließlich Textvervollständigung, Zusammenfassung und Übersetzung. Es hat einen hohen Genauigkeitsgrad und kann menschenähnliche Antworten auf Anfragen generieren."
+
+#: includes/backend/api.php:32
+msgid "The curie-instruct-beta engine is a language model developed by OpenAI. It is optimized for generating instructional text, such as step-by-step guides or manuals. It can also perform other natural language processing tasks such as summarization and text completion. It is particularly useful for applications that require the generation of instructional content, such as e-learning platforms or technical documentation."
+msgstr "Die Curie-Instruct-Beta-Engine ist ein von OpenAI entwickeltes Sprachmodell. Sie ist darauf optimiert, instruktiven Text zu generieren, wie zum Beispiel Schritt-für-Schritt-Anleitungen oder Handbücher. Sie kann auch andere natürlichsprachliche Verarbeitungsaufgaben wie Zusammenfassung und Textvervollständigung ausführen. Sie ist besonders nützlich für Anwendungen, die die Erstellung von instruktivem Inhalt erfordern, wie E-Learning-Plattformen oder technische Dokumentationen."
+
+#: includes/backend/api.php:32
+msgid "The babbage-code-search-text engine is a language model developed by OpenAI. It is optimized for searching and retrieving code snippets from a large corpus of source code. It can be used to perform tasks such as code auto-completion and code recommendation. It is particularly useful for developers who need to work with large codebases and need to quickly find code snippets that match specific criteria."
+msgstr "Die Babbage-Code-Suchtext-Engine ist ein von OpenAI entwickeltes Sprachmodell. Es ist darauf optimiert, Code-Snippets aus einem großen Korpus von Quellcode zu suchen und abzurufen. Es kann für Aufgaben wie Code-Autovervollständigung und Code-Empfehlung verwendet werden. Es ist besonders nützlich für Entwickler, die mit großen Code-Basen arbeiten und schnell Code-Snippets finden müssen, die bestimmten Kriterien entsprechen."
+
+#: includes/backend/api.php:32
+msgid "The babbage-similarity engine is a language model developed by OpenAI. It is optimized for measuring the semantic similarity between pieces of text. It can be used to perform tasks such as duplicate detection, recommendation systems, and clustering. It is particularly useful for applications that require understanding the meaning of text, such as natural language processing and information retrieval."
+msgstr "Die Babbage-Similarity-Engine ist ein von OpenAI entwickeltes Sprachmodell. Es ist darauf optimiert, die semantische Ähnlichkeit zwischen Textstücken zu messen. Es kann für Aufgaben wie Duplikaterkennung, Empfehlungssysteme und Clustering verwendet werden. Es ist besonders nützlich für Anwendungen, die das Verständnis des Bedeutung von Text erfordern, wie zum Beispiel natürliche Sprachverarbeitung und Information Retrieval."
+
+#: includes/backend/api.php:32
+msgid "The gpt-3.5-turbo engine is a variant of the GPT-3 language model developed by OpenAI. It is optimized for generating high-quality text in a variety of styles and formats, including natural language, code, and more. It is particularly useful for applications that require generating text based on specific prompts or contexts, such as chatbots, content generation, and more."
+msgstr "Die gpt-3.5-turbo-Engine ist eine Variante des von OpenAI entwickelten GPT-3-Sprachmodells. Es ist darauf optimiert, hochwertigen Text in verschiedenen Stilen und Formaten zu generieren, einschließlich natürlicher Sprache, Code und mehr. Es ist besonders nützlich für Anwendungen, die Text auf der Grundlage bestimmter Prompts oder Kontexte generieren müssen, wie Chatbots, Content-Generierung und mehr."
+
+#: includes/backend/api.php:32
+msgid "The code-davinci-002 engine is a language model developed by OpenAI that is optimized for generating high-quality code. It is particularly useful for applications that require generating complex code based on specific inputs or requirements, such as software development and automation. The model is capable of understanding and generating code in a variety of programming languages and paradigms, and can be fine-tuned for specific use cases."
+msgstr "Die code-davinci-002-Engine ist ein von OpenAI entwickeltes Sprachmodell, das darauf optimiert ist, hochwertigen Code zu generieren. Es ist besonders nützlich für Anwendungen, die auf der Grundlage bestimmter Eingaben oder Anforderungen komplexen Code generieren müssen, wie Softwareentwicklung und Automatisierung. Das Modell ist in der Lage, Code in einer Vielzahl von Programmiersprachen und Paradigmen zu verstehen und zu generieren und kann für spezifische Anwendungsfälle feinabgestimmt werden."
+
+#: includes/backend/api.php:32
+msgid "The code-search-babbage-text-001 engine is a language model developed by OpenAI that is optimized for searching and analyzing code. It is particularly useful for developers and data scientists who need to search large codebases for specific code snippets, patterns, and structures. The model is capable of understanding and analyzing code in a variety of programming languages and paradigms, and can be fine-tuned for specific use cases."
+msgstr "Die code-search-babbage-text-001-Engine ist ein von OpenAI entwickeltes Sprachmodell, das darauf optimiert ist, Code zu suchen und zu analysieren. Es ist besonders nützlich für Entwickler und Datenwissenschaftler, die große Codebasen nach bestimmten Code-Snippets, Mustern und Strukturen durchsuchen müssen. Das Modell ist in der Lage, Code in einer Vielzahl von Programmiersprachen und Paradigmen zu verstehen und zu analysieren und kann für spezifische Anwendungsfälle feinabgestimmt werden."
+
+#: includes/backend/api.php:32
+msgid "The text-embedding-ada-002 engine is a language model developed by OpenAI that is optimized for creating high-quality text embeddings. Text embeddings are numerical representations of text that capture the meaning and context of words and phrases, and are widely used in natural language processing tasks such as text classification, sentiment analysis, and machine translation. The model is capable of generating embeddings for a wide range of languages and text domains, and can be fine-tuned for specific use cases."
+msgstr "Die text-embedding-ada-002-Engine ist ein von OpenAI entwickeltes Sprachmodell, das darauf optimiert ist, hochwertige Texteinbettungen zu erstellen. Texteinbettungen sind numerische Repräsentationen von Text, die die Bedeutung und den Kontext von Wörtern und Phrasen erfassen und in Aufgaben der natürlichen Sprachverarbeitung wie Textklassifikation, Sentimentanalyse und maschinelle Übersetzung weit verbreitet sind. Das Modell ist in der Lage, Einbettungen für eine Vielzahl von Sprachen und Textdomänen zu generieren und kann für spezifische Anwendungsfälle feinabgestimmt werden."
+
+#: includes/backend/api.php:32
+msgid "The code-cushman-001 engine is a language model developed by OpenAI that is optimized for generating code. It is particularly useful for developers who need to generate code for specific use cases such as web development, machine learning, and automation. The model is capable of generating code in a variety of programming languages and paradigms, and can be fine-tuned for specific use cases."
+msgstr "Die code-cushman-001-Engine ist ein von OpenAI entwickeltes Sprachmodell, das darauf optimiert ist, Code zu generieren. Es ist besonders nützlich für Entwickler, die Code für spezifische Anwendungsfälle wie Webentwicklung, maschinelles Lernen und Automatisierung generieren müssen. Das Modell ist in der Lage, Code in einer Vielzahl von Programmiersprachen und Paradigmen zu generieren und kann für spezifische Anwendungsfälle feinabgestimmt werden."
+
+#: includes/backend/api.php:32
+msgid "The code-search-babbage-code-001 engine is a code search engine developed by OpenAI that allows developers to search for code snippets in a large corpus of code. It uses advanced machine learning techniques to identify and match code snippets based on their functionality and context. The engine is particularly useful for developers who need to find code examples for specific tasks or projects."
+msgstr "Die code-search-babbage-code-001-Engine ist eine von OpenAI entwickelte Code-Suchmaschine, die es Entwicklern ermöglicht, nach Code-Snippets in einem großen Korpus von Code zu suchen. Sie verwendet fortschrittliche Machine-Learning-Techniken, um Code-Snippets anhand ihrer Funktionalität und ihres Kontexts zu identifizieren und abzugleichen. Die Engine ist besonders nützlich für Entwickler, die Code-Beispiele für spezifische Aufgaben oder Projekte finden müssen."
+
+#: includes/backend/api.php:32
+msgid "The Davinci-Search-Document engine is an AI language model from OpenAI, specialized in searching and retrieving information from documents. This engine is capable of understanding the content and context of written documents, and can extract relevant information based on user queries. It is suitable for a wide range of applications, including information retrieval, content curation, and document analysis."
+msgstr "Die Davinci-Search-Document-Engine ist ein KI-Sprachmodell von OpenAI, das auf das Suchen und Abrufen von Informationen aus Dokumenten spezialisiert ist. Diese Engine ist in der Lage, den Inhalt und Kontext von geschriebenen Dokumenten zu verstehen und relevante Informationen basierend auf Benutzeranfragen zu extrahieren. Es eignet sich für eine Vielzahl von Anwendungen, einschließlich Informationsabfrage, Content Curation und Dokumentanalyse."
+
+#: includes/backend/api.php:32
+msgid "The Ada-Code-Search-Text engine is an AI language model from OpenAI, specialized in searching and retrieving information from code written in Ada programming language. This engine is capable of understanding the syntax and semantics of Ada code, and can extract relevant information based on user queries. It is suitable for a wide range of applications, including code search and analysis, program comprehension, and software maintenance."
+msgstr "Die Ada-Code-Search-Text Engine ist ein KI-Sprachmodell von OpenAI, das auf das Suchen und Abrufen von Informationen aus in Ada-Programmiersprache geschriebenen Code spezialisiert ist. Diese Engine ist in der Lage, die Syntax und Semantik von Ada-Code zu verstehen und relevante Informationen basierend auf Benutzeranfragen zu extrahieren. Es eignet sich für eine Vielzahl von Anwendungen, einschließlich Code-Suche und -Analyse, Programmkonzeption und Softwarewartung."
+
+#: includes/backend/api.php:32
+msgid "This engine is based on GPT-3 and is fine-tuned to generate high-quality code completions, with a focus on code editing tasks such as bug fixing, refactoring, and feature implementation."
+msgstr "Dieser Engine basiert auf GPT-3 und ist darauf spezialisiert, hochwertige Code-Vervollständigungen zu generieren, insbesondere für Code-Editing-Aufgaben wie Fehlerbehebung, Refaktorisierung und Implementierung von Funktionen."
+
+#: includes/backend/api.php:32
+msgid "This engine is a beta version of OpenAI's powerful GPT-3 language model, fine-tuned to generate natural language instructions for a wide range of tasks and applications. It can be used to provide step-by-step guidance for complex procedures, generate instructional material for educational purposes, and much more."
+msgstr "Diese Engine ist eine Beta-Version des leistungsstarken GPT-3-Sprachmodells von OpenAI, das darauf trainiert ist, natürliche Sprachanweisungen für eine Vielzahl von Aufgaben und Anwendungen zu generieren. Sie kann verwendet werden, um Schritt-für-Schritt-Anleitungen für komplexe Verfahren zu geben, Lehrmaterial für Bildungszwecke zu generieren und vieles mehr."
+
+#: includes/backend/api.php:32
+msgid "The text-similarity-curie-001 engine ID refers to OpenAI's language model that is capable of comparing the semantic similarity of two pieces of text."
+msgstr "Die Engine-ID text-similarity-curie-001 bezieht sich auf das Sprachmodell von OpenAI, das in der Lage ist, die semantische Ähnlichkeit von zwei Texten zu vergleichen."
+
+#: includes/backend/api.php:32
+msgid "This engine is designed for searching code written in the Ada programming language. It can find code snippets that are similar to a provided query or that contain certain keywords or patterns. It uses advanced machine learning techniques to understand the structure and semantics of Ada code."
+msgstr "Diese Engine wurde für die Suche nach Code geschrieben, der in der Programmiersprache Ada geschrieben wurde. Es kann Code-Snippets finden, die einer bereitgestellten Abfrage ähnlich sind oder bestimmte Schlüsselwörter oder Muster enthalten. Es verwendet fortgeschrittene Machine-Learning-Techniken, um die Struktur und Semantik von Ada-Code zu verstehen."
+
+#: includes/backend/api.php:32
+msgid "This language model is trained on a large corpus of text and can be used to perform text search and retrieval tasks. It can be fine-tuned for specific search queries and can provide high-quality results for a wide range of search tasks."
+msgstr "Dieses Sprachmodell wurde auf einer großen Textkorpus trainiert und kann für die Durchführung von Textsuch- und Abrufaufgaben verwendet werden. Es kann für spezifische Suchanfragen optimiert werden und liefert hochwertige Ergebnisse für eine Vielzahl von Suchaufgaben."
+
+#: includes/backend/api.php:32
+msgid "The Curie Search Query engine ID (curie-search-query) is designed to search for relevant web pages based on a query or search term. It uses a large pre-trained language model to analyze the query and return relevant search results. The engine is able to understand natural language queries and can return results that closely match the meaning of the query, rather than just searching for exact matches of individual words. This can help improve the accuracy and relevance of search results."
+msgstr "Die Curie Search Query Engine-ID (curie-search-query) ist darauf ausgelegt, relevante Webseiten basierend auf einer Suchanfrage oder einem Suchbegriff zu finden. Sie verwendet ein großes vortrainiertes Sprachmodell, um die Suchanfrage zu analysieren und relevante Suchergebnisse zurückzugeben. Die Engine ist in der Lage, Suchanfragen in natürlicher Sprache zu verstehen und kann Ergebnisse liefern, die der Bedeutung der Anfrage nahekommen, anstatt nur nach exakten Übereinstimmungen einzelner Wörter zu suchen. Dies kann die Genauigkeit und Relevanz der Suchergebnisse verbessern."
+
+#: includes/backend/api.php:32
+msgid "This is a GPT-3 language model fine-tuned for text generation and completion tasks. It is particularly adept at generating natural language that matches a given prompt or context, making it useful for a wide range of applications including chatbots, content creation, and automated writing."
+msgstr "Dies ist ein GPT-3-Sprachmodell, das für die Generierung und Vervollständigung von Texten feinabgestimmt ist. Es ist besonders gut darin, natürlich klingende Sprache zu erzeugen, die zu einem gegebenen Prompt oder Kontext passt, was es für eine Vielzahl von Anwendungen wie Chatbots, Content-Erstellung und automatisiertes Schreiben nützlich macht."
+
+#: includes/backend/api.php:32
+msgid "This engine is designed for searching through large collections of documents and identifying relevant results. It can be used for tasks such as document retrieval, question answering, and summarization."
+msgstr "Dieser Engine ist für die Suche durch große Dokumentensammlungen und die Identifizierung relevanter Ergebnisse konzipiert. Es kann für Aufgaben wie die Dokumentenabfrage, die Beantwortung von Fragen und die Zusammenfassung verwendet werden."
+
+#: includes/backend/api.php:32
+msgid "This engine is designed to search through large amounts of text data to find the most relevant results for a given query. It is powered by the Curie language model and uses advanced natural language processing techniques to understand the meaning behind text and return accurate search results."
+msgstr "Dieser Engine ist dafür konzipiert, große Mengen an Textdaten zu durchsuchen und die relevantesten Ergebnisse für eine bestimmte Abfrage zu finden. Es wird von dem Sprachmodell Curie betrieben und verwendet fortschrittliche natürliche Sprachverarbeitungstechniken, um die Bedeutung von Text zu verstehen und genaue Suchergebnisse zurückzugeben."
+
+#: includes/backend/api.php:32
+msgid "The text-search-babbage-doc-001 engine is designed for searching through a collection of documents and retrieving the most relevant ones based on a user query. It uses Babbage AI technology to understand the meaning of natural language queries and match them to the most appropriate documents. This engine is ideal for applications such as search engines, content management systems, and knowledge bases."
+msgstr "Der text-search-babbage-doc-001 Engine wurde entwickelt, um durch eine Sammlung von Dokumenten zu suchen und die relevantesten Dokumente basierend auf einer Benutzeranfrage abzurufen. Er verwendet Babbage AI-Technologie, um die Bedeutung von natürlichen Sprachanfragen zu verstehen und diese mit den am besten geeigneten Dokumenten abzugleichen. Dieser Engine eignet sich ideal für Anwendungen wie Suchmaschinen, Content-Management-Systeme und Wissensdatenbanken."
+
+#: includes/backend/api.php:32
+msgid "Description: Engine for retrieving documents similar to a given text query using the Curie model. Purpose: To find documents that are similar to a given text query using a state-of-the-art language model."
+msgstr "Beschreibung: Engine zum Abrufen von Dokumenten, die einer gegebenen Textabfrage ähnlich sind, unter Verwendung des Curie-Modells. Zweck: Dokumente zu finden, die einer gegebenen Textabfrage ähnlich sind, unter Verwendung eines modernen Sprachmodells."
+
+#: includes/backend/api.php:32
+msgid "This engine is designed for search queries and supports natural language search queries as well as more structured queries using Boolean operators and filters. It is capable of searching a wide range of document types, including web pages, PDFs, and text documents."
+msgstr "Deutsch: Diese Engine wurde für Suchanfragen entwickelt und unterstützt natürliche Sprachsuchanfragen sowie strukturiertere Suchanfragen unter Verwendung von Booleschen Operatoren und Filtern. Sie kann eine Vielzahl von Dokumenttypen durchsuchen, einschließlich Webseiten, PDFs und Textdokumenten."
+
+#: includes/backend/api.php:32
+msgid "The engine text-babbage-001 is a natural language processing model developed by OpenAI that can perform a variety of text-related tasks such as text generation, question answering, and text completion. It is based on the GPT-2 architecture and has been fine-tuned on a large corpus of text data."
+msgstr "Die Engine text-babbage-001 ist ein Natural Language Processing Modell von OpenAI, das verschiedene Textaufgaben wie Textgenerierung, Fragebeantwortung und Textvervollständigung ausführen kann. Es basiert auf der GPT-2-Architektur und wurde auf einem großen Korpus von Textdaten feinabgestimmt."
+
+#: includes/backend/api.php:32
+msgid "This is a Babbage model trained to perform a search task based on a given query text."
+msgstr "Dies ist ein Babbage-Modell, das darauf trainiert wurde, eine Suchaufgabe basierend auf einem gegebenen Abfrage-Text durchzuführen."
+
+#: includes/backend/api.php:32
+msgid "Curie Similarity is an AI language model trained by OpenAI that can determine the similarity between two pieces of text. It uses cutting-edge techniques to understand the meaning of words and phrases, and is designed to handle a wide range of natural language processing tasks."
+msgstr "Curie Similarity ist ein von OpenAI trainiertes KI-Sprachmodell, das die Ähnlichkeit zwischen zwei Textstücken bestimmen kann. Es verwendet modernste Techniken, um die Bedeutung von Wörtern und Phrasen zu verstehen und ist darauf ausgelegt, eine Vielzahl von Aufgaben im Bereich der natürlichen Sprachverarbeitung zu bewältigen."
+
+#: includes/backend/api.php:32
+msgid "Davinci is an AI language model developed by OpenAI. It is capable of a wide range of natural language processing tasks, such as language translation, question-answering, and generating text. It is currently one of the most powerful language models available, with a large amount of training data and sophisticated algorithms that allow it to generate high-quality text."
+msgstr "Davinci ist ein von OpenAI entwickeltes künstliches Intelligenz-Modell für Sprachverarbeitung. Es ist in der Lage, eine Vielzahl von natürlichsprachlichen Aufgaben zu bearbeiten, wie beispielsweise Übersetzungen, Frage-Antworten oder Textgenerierung. Derzeit ist es eines der leistungsstärksten Sprachmodelle auf dem Markt, mit einer großen Menge an Trainingsdaten und ausgefeilten Algorithmen, die es ihm ermöglichen, hochwertige Texte zu generieren."
+
+#: includes/backend/api.php:32
+msgid "The Ada engine is a language model designed specifically for natural language processing tasks such as question answering, summarization, and chatbots. It is trained on a diverse range of text data and can produce accurate and relevant outputs."
+msgstr "Die Ada-Engine ist ein Sprachmodell, das speziell für natürliche Sprachverarbeitungsaufgaben wie Fragebeantwortung, Zusammenfassung und Chatbots entwickelt wurde. Sie ist auf eine vielfältige Auswahl an Textdaten trainiert und kann genaue und relevante Ausgaben produzieren."
